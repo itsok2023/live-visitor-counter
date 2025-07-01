@@ -4,6 +4,14 @@ A **live, real-time, yearly auto-resetting visitor counter** for websites, built
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live visitor counter here:
+
+➡️ [Live Visitor Counter](https://live-visitor-counter.netlify.app/)
+
+---
+
 ## ✨ Features
 
 ✅ Live visitor count updates on every visit  
@@ -32,21 +40,3 @@ A **live, real-time, yearly auto-resetting visitor counter** for websites, built
 ```bash
 git clone https://github.com/itsok2023/live-visitor-counter.git
 cd live-visitor-counter
-
----
-
-## 🌐 Live Demo
-
-Check out the live visitor counter here:
-
-➡️ [Live Visitor Counter](https://live-visitor-counter.netlify.app/)
-
----
-
-
-GitHub: @itsok2023
-
-
-License
-
-    This project is open-source and available under the MIT License.
